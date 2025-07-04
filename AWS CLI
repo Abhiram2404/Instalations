@@ -1,0 +1,19 @@
+aws cli latest version
+install aws cli - commands from internet
+
+ll usr/local/bin
+copy aws path
+in vi .bashrc
+export PATH=$PATH:"copy the path here"
+paste the path with export
+source .bashrc
+
+yum remove aws cli
+
+sudo ./aws/install --update
+A
+
+install
+set default path 
+uninstall
+install --update
